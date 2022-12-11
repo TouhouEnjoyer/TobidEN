@@ -2,4 +2,5 @@ Every dialogue box can contain a maximum of 4 lines. Line character limit slight
 
 Generally speaking:
 Line character limit (dialogue with no face sprites): 49
+
 Line character limit (dialogue with face sprites): 38
